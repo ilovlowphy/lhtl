@@ -1,0 +1,94 @@
+{
+  "main": {
+    "id": "6c3250bda74d2c27",
+    "type": "split",
+    "children": [
+      {
+        "id": "b0b2a852ed168b78",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "week1/01 Introduction to the Focused and Diffuse Modes.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "681d171152a4cca0",
+    "type": "split",
+    "children": [
+      {
+        "id": "d3bdc7c4026a6a69",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "eeea5f843c231eeb",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "3fe480fa454b3182",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "65f190f9e7f82c04",
+    "type": "split",
+    "children": [
+      {
+        "id": "d29432159514e840",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2d63912a4a5a4380",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "week1/01 Introduction to the Focused and Diffuse Modes.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "b0b2a852ed168b78",
+  "lastOpenFiles": [
+    "week1/01 Introduction to the Focused and Diffuse Modes.md"
+  ]
+}
